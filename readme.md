@@ -45,7 +45,7 @@
 43. [Dutch National Flag Problem - Video](https://www.youtube.com/watch?v=ER4ivZosqCg)
 44. [Dutch National Flag Problem - Tutorial](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
 45. [Time and Space Complexity](https://www.datacamp.com/community/tutorials/analyzing-complexity-code-python)
-
+46. [Buy and Sell a Stock - Video](https://www.youtube.com/watch?v=7AMjRbJhsKM)
 
 ## Hackathon Syllabus
 
