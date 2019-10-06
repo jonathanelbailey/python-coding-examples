@@ -10,7 +10,8 @@
 8. [Modular Arithmetic - Tutorial](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic)
 9. [Caching - Video](https://www.youtube.com/watch?v=_CD-9GDPSVE)
 10. [Caching in Python - Tutorial](https://www.thepythoncorner.com/2018/04/how-to-make-your-code-faster-by-using-a-cache-in-python/?source=post_page-----fb169fbcbb0b----------------------)
-
+11. [Lookup Tables - Video](https://www.youtube.com/watch?v=nyYJLLPxOAM)
+12. [Lookup Tables - Tutorial](https://towardsdatascience.com/python-tutorial-a-name-lookup-table-for-fuzzy-name-data-sets-2580e4eca6e7)
 
 ## Hackathon Syllabus
 
