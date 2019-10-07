@@ -1,5 +1,29 @@
-# Resources for Research
+# Hackathon Syllabus
 
+| Chapter | Name                                                   | Page |
+|---------|--------------------------------------------------------|------|
+| 4.1     | Computing the parity of a word                         | 26   |
+| 5.1     | The Dutch national flag problem                        | 42   |
+| 5.6     | Buy and sell a stock once                              | 50   |
+| 6.1     | Interconvert strings and integers                      | 73   |
+| 7.1     | Merge two sorted lists                                 | 89   |
+| 8.1     | Implement a stack with max API                         | 105  |
+| 9.1     | Test if a binary tree is height-balanced               | 121  |
+| 10.1    | Merge sorted files                                     | 142  |
+| 11.1    | Search a sorted array for first occurence of *k*       | 154  |
+| 12.2    | Is an anonymous letter constructible                   | 175  |
+| 13.1    | Compute the intersection of two sorted arrays          | 194  |
+| 14.1    | Test if a binary tree satisfies the BST property       | 214  |
+| 15.1    | The Towers of Hanoi problem                            | 235  |
+| 16.1    | Count the number of score combinations                 | 256  |
+| 17.4    | The 3-sum problem                                      | 287  |
+| 18.1    | Search a maze                                          | 300  |
+| 19.3    | Implement synchronization for two interleaving threads | 317  |
+| 20.13   | Implement Mileage Run                                  | 338  |
+
+## Resources for Research
+
+### 4.1 Computing the Parity of a Word
 1. [Bitwise Operators - Video](https://www.youtube.com/watch?v=PyfKCvHALj8)
 2. [Bitwise Operators - Doc](https://python-reference.readthedocs.io/en/latest/docs/operators/#bitwise-operators)
 3. [XOR Operators - Video](https://www.youtube.com/watch?v=ip6mBD18xU4)
@@ -29,6 +53,9 @@
 27. [Caching in Python - Tutorial](https://www.thepythoncorner.com/2018/04/how-to-make-your-code-faster-by-using-a-cache-in-python/?source=post_page-----fb169fbcbb0b----------------------)
 28. [Lookup Tables - Video](https://www.youtube.com/watch?v=nyYJLLPxOAM)
 29. [Lookup Tables - Tutorial](https://towardsdatascience.com/python-tutorial-a-name-lookup-table-for-fuzzy-name-data-sets-2580e4eca6e7)
+
+### 5.1 The Dutch National Flag Problem
+
 30. [Arrays - Video](https://www.youtube.com/watch?v=6a39OjkCN5I)
 31. [Arrays - Tutorial](https://www.w3schools.com/python/python_arrays.asp)
 32. [2D Arrays - Video](https://www.youtube.com/watch?v=B5GhlXhDfoE)
@@ -45,27 +72,22 @@
 43. [Dutch National Flag Problem - Video](https://www.youtube.com/watch?v=ER4ivZosqCg)
 44. [Dutch National Flag Problem - Tutorial](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
 45. [Time and Space Complexity](https://www.datacamp.com/community/tutorials/analyzing-complexity-code-python)
+
+### 5.6 Buy and Sell a Stock Once
+
 46. [Buy and Sell a Stock - Video](https://www.youtube.com/watch?v=7AMjRbJhsKM)
 
-## Hackathon Syllabus
+### 6.1 Interconvert Strings and Integers
 
-| Chapter | Name                                                   | Page |
-|---------|--------------------------------------------------------|------|
-| 4.1     | Computing the parity of a word                         | 26   |
-| 5.1     | The Dutch national flag problem                        | 42   |
-| 5.6     | Buy and sell a stock once                              | 50   |
-| 6.1     | Interconvert strings and integers                      | 73   |
-| 7.1     | Merge two sorted lists                                 | 89   |
-| 8.1     | Implement a stack with max API                         | 105  |
-| 9.1     | Test if a binary tree is height-balanced               | 121  |
-| 10.1    | Merge sorted files                                     | 142  |
-| 11.1    | Search a sorted array for first occurence of *k*       | 154  |
-| 12.2    | Is an anonymous letter constructible                   | 175  |
-| 13.1    | Compute the intersection of two sorted arrays          | 194  |
-| 14.1    | Test if a binary tree satisfies the BST property       | 214  |
-| 15.1    | The Towers of Hanoi problem                            | 235  |
-| 16.1    | Count the number of score combinations                 | 256  |
-| 17.4    | The 3-sum problem                                      | 287  |
-| 18.1    | Search a maze                                          | 300  |
-| 19.3    | Implement synchronization for two interleaving threads | 317  |
-| 20.13   | Implement Mileage Run                                  | 338  |
+47. [String Indexes - Doc](https://www.programiz.com/python-programming/methods/string/index)
+48. [String Slicing - Doc](https://www.pythoncentral.io/cutting-and-slicing-strings-in-python/)
+49. [String Length - Doc](https://www.geeksforgeeks.org/python-string-length-len/)
+50. [String Concatenation - Doc](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
+51. [Searching for characters within Strings - Doc](https://www.afternerd.com/blog/python-string-contains/)
+52. [String Stripping - Doc](https://www.programiz.com/python-programming/methods/string/strip)
+53. [Startswith() and endswith() - Doc](hhttps://www.geeksforgeeks.org/python-startswith-endswidth-function/)
+54. [String Splitting and Joining - Tutorial](https://www.geeksforgeeks.org/python-program-split-join-string/)
+55. [Format() string method - Tutorial](https://www.geeksforgeeks.org/python-format-function/)
+56. [Python strings - Doc](https://www.w3schools.com/python/python_strings.asp)
+57. [Python string immutability - Video](https://www.youtube.com/watch?v=to9DPVsdByE)
+58. [Latex - Tutorial](https://www.latex-tutorial.com/tutorials/amsmath/)
