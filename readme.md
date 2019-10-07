@@ -1,25 +1,25 @@
 # Hackathon Syllabus
 
-| Status    | Chapter | Name                                                                             | Page |
-|-----------|---------|----------------------------------------------------------------------------------|------|
-| Completed | 4.1     | [Computing the parity of a word](4.1_Computing_the_parity_of_a_word.ipynb)       | 26   |
-| Completed | 5.1     | [The Dutch national flag problem](4.1_The_Dutch_national_flag_problem.ipynb)     | 42   |
-| Completed | 5.6     | [Buy and sell a stock once](5.6_Buy_and_sell_a_stock_once.ipynb)                 | 50   |
-| Completed | 6.1     | [Interconvert strings and integers](6.1_Interconvert_strings_and_integers.ipynb) | 73   |
-| Completed | 7.1     | [Merge two sorted lists](7.1_Merge_two_sorted_lists.ipynb)                       | 89   |
-| Completed | 8.1     | [Implement a stack with max API](8.1_Implement_a_stack_with_max_API)             | 105  |
-|           | 9.1     | Test if a binary tree is height-balanced                                         | 121  |
-|           | 10.1    | Merge sorted files                                                               | 142  |
-|           | 11.1    | Search a sorted array for first occurence of *k*                                 | 154  |
-|           | 12.2    | Is an anonymous letter constructible                                             | 175  |
-|           | 13.1    | Compute the intersection of two sorted arrays                                    | 194  |
-|           | 14.1    | Test if a binary tree satisfies the BST property                                 | 214  |
-|           | 15.1    | The Towers of Hanoi problem                                                      | 235  |
-|           | 16.1    | Count the number of score combinations                                           | 256  |
-|           | 17.4    | The 3-sum problem                                                                | 287  |
-|           | 18.1    | Search a maze                                                                    | 300  |
-|           | 19.3    | Implement synchronization for two interleaving threads                           | 317  |
-|           | 20.13   | Implement Mileage Run                                                            | 338  |
+| Status    | Chapter | Name                                                                                     | Page |
+|-----------|---------|------------------------------------------------------------------------------------------|------|
+| Completed | 4.1     | [Computing the parity of a word](4.1_Computing_the_parity_of_a_word.ipynb)               | 26   |
+| Completed | 5.1     | [The Dutch national flag problem](4.1_The_Dutch_national_flag_problem.ipynb)             | 42   |
+| Completed | 5.6     | [Buy and sell a stock once](5.6_Buy_and_sell_a_stock_once.ipynb)                         | 50   |
+| Completed | 6.1     | [Interconvert strings and integers](6.1_Interconvert_strings_and_integers.ipynb)         | 73   |
+| Completed | 7.1     | [Merge two sorted lists](7.1_Merge_two_sorted_lists.ipynb)                               | 89   |
+| Completed | 8.1     | [Implement a stack with max API](8.1_Implement_a_stack_with_max_API)                     | 105  |
+| Completed | 9.1     | [Test if a binary tree is height-balanced](9.1_Test_if_a_binary_tree_is_height-balanced) | 121  |
+|           | 10.1    | Merge sorted files                                                                       | 142  |
+|           | 11.1    | Search a sorted array for first occurence of *k*                                         | 154  |
+|           | 12.2    | Is an anonymous letter constructible                                                     | 175  |
+|           | 13.1    | Compute the intersection of two sorted arrays                                            | 194  |
+|           | 14.1    | Test if a binary tree satisfies the BST property                                         | 214  |
+|           | 15.1    | The Towers of Hanoi problem                                                              | 235  |
+|           | 16.1    | Count the number of score combinations                                                   | 256  |
+|           | 17.4    | The 3-sum problem                                                                        | 287  |
+|           | 18.1    | Search a maze                                                                            | 300  |
+|           | 19.3    | Implement synchronization for two interleaving threads                                   | 317  |
+|           | 20.13   | Implement Mileage Run                                                                    | 338  |
 
 ## Resources for Research
 
@@ -106,3 +106,16 @@
 65. [Stacks and Queues - Tutorial](https://www.geeksforgeeks.org/using-list-stack-queues-python/)
 66. [Binary Search Tree - Video](https://www.youtube.com/watch?v=f5dU3xoE6ms)
 67. [Binary Search Tree - Tutorial](https://medium.com/@stephenagrice/how-to-implement-a-binary-search-tree-in-python-e1cdba29c533)
+
+### 9.1 Test if a binary tree is height-balanced
+
+68. [Binary Trees - Video](https://www.youtube.com/watch?v=6oL-0TdVy28)
+69. [Binary Trees - Tutorial](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+70. [Types of Binary Tree - Doc](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)
+71. [Binary Tree Traversals - Doc](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+72. [Recursion in Python - Video](https://www.youtube.com/watch?v=Qk0zUZW-U_M)
+73. [Recursion in Python - Doc](https://realpython.com/python-thinking-recursively/)
+74. [Left and Right Skewed Binary Trees - Example](geeksforgeeks.org/check-whether-a-given-binary-tree-is-skewed-binary-tree-or-not/)
+75. [Parent fields - Tutorial](https://www.geeksforgeeks.org/construct-a-binary-tree-from-parent-array-representation/)
+
+### 10.1 Merge Sorted Files
