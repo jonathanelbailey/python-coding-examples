@@ -85,7 +85,7 @@
 50. [String Concatenation - Doc](https://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python)
 51. [Searching for characters within Strings - Doc](https://www.afternerd.com/blog/python-string-contains/)
 52. [String Stripping - Doc](https://www.programiz.com/python-programming/methods/string/strip)
-53. [Startswith() and endswith() - Doc](hhttps://www.geeksforgeeks.org/python-startswith-endswidth-function/)
+53. [Startswith() and endswith() - Doc](https://www.geeksforgeeks.org/python-startswith-endswidth-function/)
 54. [String Splitting and Joining - Tutorial](https://www.geeksforgeeks.org/python-program-split-join-string/)
 55. [Format() string method - Tutorial](https://www.geeksforgeeks.org/python-format-function/)
 56. [Python strings - Doc](https://www.w3schools.com/python/python_strings.asp)
