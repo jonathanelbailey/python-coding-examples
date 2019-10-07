@@ -91,3 +91,10 @@
 56. [Python strings - Doc](https://www.w3schools.com/python/python_strings.asp)
 57. [Python string immutability - Video](https://www.youtube.com/watch?v=to9DPVsdByE)
 58. [Latex - Tutorial](https://www.latex-tutorial.com/tutorials/amsmath/)
+
+### 7.1 Merge Two Sorted Lists
+
+59. [Linked Lists - Video](https://www.youtube.com/watch?v=JlMyYuY1aXU)
+60. [Singly Linked Lists - Tutorial](https://www.codefellows.org/blog/implementing-a-singly-linked-list-in-python/)
+61. [Dummy Heads - Example](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/discuss/28336/Python-in-place-solution-with-dummy-head-node.)
+62. [Lists - Doc](https://docs.python.org/3/tutorial/datastructures.html)
