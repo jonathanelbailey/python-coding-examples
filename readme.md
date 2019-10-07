@@ -6,7 +6,7 @@
 | Completed | 5.1     | [The Dutch national flag problem](4.1_The_Dutch_national_flag_problem.ipynb)     | 42   |
 | Completed | 5.6     | [Buy and sell a stock once](5.6_Buy_and_sell_a_stock_once.ipynb)                 | 50   |
 | Completed | 6.1     | [Interconvert strings and integers](6.1_Interconvert_strings_and_integers.ipynb) | 73   |
-| Started   | 7.1     | [Merge two sorted lists](7.1_Merge_two_sorted_lists.ipynb)                       | 89   |
+| Completed | 7.1     | [Merge two sorted lists](7.1_Merge_two_sorted_lists.ipynb)                       | 89   |
 |           | 8.1     | Implement a stack with max API                                                   | 105  |
 |           | 9.1     | Test if a binary tree is height-balanced                                         | 121  |
 |           | 10.1    | Merge sorted files                                                               | 142  |
