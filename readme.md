@@ -7,7 +7,7 @@
 | Completed | 5.6     | [Buy and sell a stock once](5.6_Buy_and_sell_a_stock_once.ipynb)                 | 50   |
 | Completed | 6.1     | [Interconvert strings and integers](6.1_Interconvert_strings_and_integers.ipynb) | 73   |
 | Completed | 7.1     | [Merge two sorted lists](7.1_Merge_two_sorted_lists.ipynb)                       | 89   |
-|           | 8.1     | Implement a stack with max API                                                   | 105  |
+| Completed | 8.1     | [Implement a stack with max API](8.1_Implement_a_stack_with_max_API)             | 105  |
 |           | 9.1     | Test if a binary tree is height-balanced                                         | 121  |
 |           | 10.1    | Merge sorted files                                                               | 142  |
 |           | 11.1    | Search a sorted array for first occurence of *k*                                 | 154  |
@@ -100,3 +100,9 @@
 62. [Lists - Doc](https://docs.python.org/3/tutorial/datastructures.html)
 63. [Creating Linked Lists - Tutorial](https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d)
 
+### 8.1 Implement a stack with max API
+
+64. [Stacks and Queues - Video](https://www.youtube.com/watch?v=wjI1WNcIntg)
+65. [Stacks and Queues - Tutorial](https://www.geeksforgeeks.org/using-list-stack-queues-python/)
+66. [Binary Search Tree - Video](https://www.youtube.com/watch?v=f5dU3xoE6ms)
+67. [Binary Search Tree - Tutorial](https://medium.com/@stephenagrice/how-to-implement-a-binary-search-tree-in-python-e1cdba29c533)
