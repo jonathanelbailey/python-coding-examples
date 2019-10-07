@@ -1,25 +1,25 @@
 # Hackathon Syllabus
 
-| Chapter | Name                                                   | Page |
-|---------|--------------------------------------------------------|------|
-| 4.1     | Computing the parity of a word                         | 26   |
-| 5.1     | The Dutch national flag problem                        | 42   |
-| 5.6     | Buy and sell a stock once                              | 50   |
-| 6.1     | Interconvert strings and integers                      | 73   |
-| 7.1     | Merge two sorted lists                                 | 89   |
-| 8.1     | Implement a stack with max API                         | 105  |
-| 9.1     | Test if a binary tree is height-balanced               | 121  |
-| 10.1    | Merge sorted files                                     | 142  |
-| 11.1    | Search a sorted array for first occurence of *k*       | 154  |
-| 12.2    | Is an anonymous letter constructible                   | 175  |
-| 13.1    | Compute the intersection of two sorted arrays          | 194  |
-| 14.1    | Test if a binary tree satisfies the BST property       | 214  |
-| 15.1    | The Towers of Hanoi problem                            | 235  |
-| 16.1    | Count the number of score combinations                 | 256  |
-| 17.4    | The 3-sum problem                                      | 287  |
-| 18.1    | Search a maze                                          | 300  |
-| 19.3    | Implement synchronization for two interleaving threads | 317  |
-| 20.13   | Implement Mileage Run                                  | 338  |
+| Status    | Chapter | Name                                                   | Page |
+|-----------|---------|--------------------------------------------------------|------|
+| Completed | 4.1     | [Computing the parity of a word](4.1_Computing_the_parity_of_a_word.ipynb)                         | 26   |
+| Completed | 5.1     | The Dutch national flag problem                        | 42   |
+| Completed | 5.6     | Buy and sell a stock once                              | 50   |
+| Completed | 6.1     | Interconvert strings and integers                      | 73   |
+| Started   | 7.1     | Merge two sorted lists                                 | 89   |
+|           | 8.1     | Implement a stack with max API                         | 105  |
+|           | 9.1     | Test if a binary tree is height-balanced               | 121  |
+|           | 10.1    | Merge sorted files                                     | 142  |
+|           | 11.1    | Search a sorted array for first occurence of *k*       | 154  |
+|           | 12.2    | Is an anonymous letter constructible                   | 175  |
+|           | 13.1    | Compute the intersection of two sorted arrays          | 194  |
+|           | 14.1    | Test if a binary tree satisfies the BST property       | 214  |
+|           | 15.1    | The Towers of Hanoi problem                            | 235  |
+|           | 16.1    | Count the number of score combinations                 | 256  |
+|           | 17.4    | The 3-sum problem                                      | 287  |
+|           | 18.1    | Search a maze                                          | 300  |
+|           | 19.3    | Implement synchronization for two interleaving threads | 317  |
+|           | 20.13   | Implement Mileage Run                                  | 338  |
 
 ## Resources for Research
 
@@ -98,3 +98,5 @@
 60. [Singly Linked Lists - Tutorial](https://www.codefellows.org/blog/implementing-a-singly-linked-list-in-python/)
 61. [Dummy Heads - Example](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/discuss/28336/Python-in-place-solution-with-dummy-head-node.)
 62. [Lists - Doc](https://docs.python.org/3/tutorial/datastructures.html)
+63. [Creating Linked Lists - Tutorial](https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d)
+
