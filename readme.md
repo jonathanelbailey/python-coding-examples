@@ -11,7 +11,7 @@
 | Completed | 9.1     | [Test if a binary tree is height-balanced](9.1_Test_if_a_binary_tree_is_height-balanced)                      | 121  |
 | Completed | 10.1    | [Merge sorted files](10.1_Merge_sorted_files.ipynb)                                                           | 142  |
 | Completed | 11.1    | [Search a sorted array for first occurence of *k*](11.1_Search_a_sorted_array_for_first_occurence_of_k.ipynb) | 154  |
-|           | 12.2    | Is an anonymous letter constructible                                                                          | 175  |
+| Completed | 12.2    | [Is an anonymous letter constructible](12.2_Is_an_anonymous_letter_constructible.ipynb)                       | 175  |
 |           | 13.1    | Compute the intersection of two sorted arrays                                                                 | 194  |
 |           | 14.1    | Test if a binary tree satisfies the BST property                                                              | 214  |
 |           | 15.1    | The Towers of Hanoi problem                                                                                   | 235  |
@@ -129,3 +129,10 @@
 
 80. [Binary Search - Video](https://www.youtube.com/watch?v=DE-ye0t0oxE)
 81. [Binary Search - Example](https://www.geeksforgeeks.org/python-program-for-binary-search/)
+
+### 12.2 Is an Anonymous Letter Constructible? 
+
+82. [Hash Tables - Video](https://www.youtube.com/watch?v=zHi5v78W1f0)
+83. [Hash Tables - Tutorial](https://dbader.org/blog/python-dictionaries-maps-and-hashtables)
+84. [Multimaps - Example](http://code.activestate.com/recipes/576835-multimap-associating-multiple-values-to-a-key/)
+85. [Collections - Doc](https://docs.python.org/2/library/collections.html)
