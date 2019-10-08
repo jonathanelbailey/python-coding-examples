@@ -12,7 +12,7 @@
 | Completed | 10.1    | [Merge sorted files](10.1_Merge_sorted_files.ipynb)                                                           | 142  |
 | Completed | 11.1    | [Search a sorted array for first occurence of *k*](11.1_Search_a_sorted_array_for_first_occurence_of_k.ipynb) | 154  |
 | Completed | 12.2    | [Is an anonymous letter constructible](12.2_Is_an_anonymous_letter_constructible.ipynb)                       | 175  |
-|           | 13.1    | Compute the intersection of two sorted arrays                                                                 | 194  |
+| Completed | 13.1    | [Compute the intersection of two sorted arrays](13.1_Compute_the_intersection_of_two_sorted_arrays.ipynb)     | 194  |
 |           | 14.1    | Test if a binary tree satisfies the BST property                                                              | 214  |
 |           | 15.1    | The Towers of Hanoi problem                                                                                   | 235  |
 |           | 16.1    | Count the number of score combinations                                                                        | 256  |
@@ -136,3 +136,8 @@
 83. [Hash Tables - Tutorial](https://dbader.org/blog/python-dictionaries-maps-and-hashtables)
 84. [Multimaps - Example](http://code.activestate.com/recipes/576835-multimap-associating-multiple-values-to-a-key/)
 85. [Collections - Doc](https://docs.python.org/2/library/collections.html)
+
+### 13.1 Compute the intersection of two sorted arrays
+
+86. [Sorting - Video](https://www.youtube.com/watch?v=QtwhlHP_tqc)
+87. [Sorting - Doc](https://docs.python.org/3.3/howto/sorting.html)
