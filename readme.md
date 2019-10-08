@@ -1,25 +1,25 @@
 # Hackathon Syllabus
 
-| Status    | Chapter | Name                                                                                                          | Page |
-|-----------|---------|---------------------------------------------------------------------------------------------------------------|------|
-| Completed | 4.1     | [Computing the parity of a word](4.1_Computing_the_parity_of_a_word.ipynb)                                    | 26   |
-| Completed | 5.1     | [The Dutch national flag problem](4.1_The_Dutch_national_flag_problem.ipynb)                                  | 42   |
-| Completed | 5.6     | [Buy and sell a stock once](5.6_Buy_and_sell_a_stock_once.ipynb)                                              | 50   |
-| Completed | 6.1     | [Interconvert strings and integers](6.1_Interconvert_strings_and_integers.ipynb)                              | 73   |
-| Completed | 7.1     | [Merge two sorted lists](7.1_Merge_two_sorted_lists.ipynb)                                                    | 89   |
-| Completed | 8.1     | [Implement a stack with max API](8.1_Implement_a_stack_with_max_API)                                          | 105  |
-| Completed | 9.1     | [Test if a binary tree is height-balanced](9.1_Test_if_a_binary_tree_is_height-balanced)                      | 121  |
-| Completed | 10.1    | [Merge sorted files](10.1_Merge_sorted_files.ipynb)                                                           | 142  |
-| Completed | 11.1    | [Search a sorted array for first occurence of *k*](11.1_Search_a_sorted_array_for_first_occurence_of_k.ipynb) | 154  |
-| Completed | 12.2    | [Is an anonymous letter constructible](12.2_Is_an_anonymous_letter_constructible.ipynb)                       | 175  |
-| Completed | 13.1    | [Compute the intersection of two sorted arrays](13.1_Compute_the_intersection_of_two_sorted_arrays.ipynb)     | 194  |
-|           | 14.1    | Test if a binary tree satisfies the BST property                                                              | 214  |
-|           | 15.1    | The Towers of Hanoi problem                                                                                   | 235  |
-|           | 16.1    | Count the number of score combinations                                                                        | 256  |
-|           | 17.4    | The 3-sum problem                                                                                             | 287  |
-|           | 18.1    | Search a maze                                                                                                 | 300  |
-|           | 19.3    | Implement synchronization for two interleaving threads                                                        | 317  |
-|           | 20.13   | Implement Mileage Run                                                                                         | 338  |
+| Status    | Chapter | Name                                                                                                           | Page |
+|-----------|---------|----------------------------------------------------------------------------------------------------------------|------|
+| Completed | 4.1     | [Computing the parity of a word](4.1_Computing_the_parity_of_a_word.ipynb)                                     | 26   |
+| Completed | 5.1     | [The Dutch national flag problem](4.1_The_Dutch_national_flag_problem.ipynb)                                   | 42   |
+| Completed | 5.6     | [Buy and sell a stock once](5.6_Buy_and_sell_a_stock_once.ipynb)                                               | 50   |
+| Completed | 6.1     | [Interconvert strings and integers](6.1_Interconvert_strings_and_integers.ipynb)                               | 73   |
+| Completed | 7.1     | [Merge two sorted lists](7.1_Merge_two_sorted_lists.ipynb)                                                     | 89   |
+| Completed | 8.1     | [Implement a stack with max API](8.1_Implement_a_stack_with_max_API)                                           | 105  |
+| Completed | 9.1     | [Test if a binary tree is height-balanced](9.1_Test_if_a_binary_tree_is_height-balanced)                       | 121  |
+| Completed | 10.1    | [Merge sorted files](10.1_Merge_sorted_files.ipynb)                                                            | 142  |
+| Completed | 11.1    | [Search a sorted array for first occurence of *k*](11.1_Search_a_sorted_array_for_first_occurence_of_k.ipynb)  | 154  |
+| Completed | 12.2    | [Is an anonymous letter constructible](12.2_Is_an_anonymous_letter_constructible.ipynb)                        | 175  |
+| Completed | 13.1    | [Compute the intersection of two sorted arrays](13.1_Compute_the_intersection_of_two_sorted_arrays.ipynb)      | 194  |
+| Completed | 14.1    | [Test if a binary tree satisfies the BST property](14.1_Test_if_a_binary_tree_satisfies_the_BST_property.ipynb)| 214  |
+|           | 15.1    | The Towers of Hanoi problem                                                                                    | 235  |
+|           | 16.1    | Count the number of score combinations                                                                         | 256  |
+|           | 17.4    | The 3-sum problem                                                                                              | 287  |
+|           | 18.1    | Search a maze                                                                                                  | 300  |
+|           | 19.3    | Implement synchronization for two interleaving threads                                                         | 317  |
+|           | 20.13   | Implement Mileage Run                                                                                          | 338  |
 
 ## Resources for Research
 
@@ -141,3 +141,11 @@
 
 86. [Sorting - Video](https://www.youtube.com/watch?v=QtwhlHP_tqc)
 87. [Sorting - Doc](https://docs.python.org/3.3/howto/sorting.html)
+
+### 14.1 Test if a binary tree satisfies the BST property
+
+88. [Sortedcontainers Module - Video](https://www.youtube.com/watch?v=7z2Ki44Vs4E)
+89. [Sortedcontainers Module - Doc](http://www.grantjenks.com/docs/sortedcontainers/)
+90. [Bintrees Module - Github](https://github.com/mozman/bintrees)
+91. [Breadth First Search - Tutorial](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
+
