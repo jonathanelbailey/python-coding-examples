@@ -15,7 +15,7 @@
 | Completed | 13.1    | [Compute the intersection of two sorted arrays](notes/13.1_Compute_the_intersection_of_two_sorted_arrays.ipynb)      | 194  |
 | Completed | 14.1    | [Test if a binary tree satisfies the BST property](notes/14.1_Test_if_a_binary_tree_satisfies_the_BST_property.ipynb)| 214  |
 | Completed | 15.1    | [The Towers of Hanoi problem](notes/15.1_The_Towers_of_Hanoi_problem.ipynb)                                          | 235  |
-|           | 16.1    | Count the number of score combinations                                                                         | 256  |
+| Completed | 16.1    | [Count the number of score combinations](notes/16.1_Count_the_number_of_score_combinations.ipynb)                    | 256  |
 |           | 17.4    | The 3-sum problem                                                                                              | 287  |
 |           | 18.1    | Search a maze                                                                                                  | 300  |
 |           | 19.3    | Implement synchronization for two interleaving threads                                                         | 317  |
