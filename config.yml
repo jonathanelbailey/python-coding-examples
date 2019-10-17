@@ -1,0 +1,8 @@
+proxy:
+  secretToken: c8ff5d1c8fa415172f5ba02980b512a6d354c8b0246b5c58fa73ddf0b8bcf5b0
+hub:
+  uid: 0
+  fsGid: 0
+singleuser:
+  storage:
+    type: none
